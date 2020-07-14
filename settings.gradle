@@ -1,0 +1,2 @@
+rootProject.name='MonPoids'
+include ':app'
